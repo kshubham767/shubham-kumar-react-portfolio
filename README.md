@@ -28,11 +28,13 @@ Welcome to my React project using Vite! This project showcases my skills in buil
 
 ## Technologies Used
 
-- **React:** For building the user interface.
-- **Vite:** For fast development and optimized builds.
-- **Framer Motion:** For animations.
-- **Tailwind CSS:** For styling and responsive design.
-- **React Icons:** For adding icons to the project.
+- **React:** ![React](https://img.shields.io/badge/React-18.3.1-blue)
+- **Tailwind CSS:** ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-3.4.10-blue)
+- **Vite:** ![Vite](https://img.shields.io/badge/Vite-5.4.3-brightgreen)
+- **Framer Motion:** ![Framer Motion](https://img.shields.io/badge/Framer%20Motion-11.5.4-purple)
+- **React Icons:** ![React Icons](https://img.shields.io/badge/React%20Icons-5.3.0-orange)
+
+
 
 ## Setup and Installation
 
