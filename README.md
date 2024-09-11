@@ -15,7 +15,7 @@ Welcome to my React project using Vite! This project showcases my skills in buil
 
 ## Project Overview
 
-This project is a portfolio application demonstrating various features and technologies I've worked with. It includes a dynamic layout with light and dark mode functionality, a responsive navbar, and sections for showcasing projects and experiences.
+Welcome to my React project using Vite! This project showcases my skills in building modern web applications with React and Vite. You can check out the live version of the project [here](https://shubham-kumar-react-portfolio.vercel.app/).
 
 ## Features
 
